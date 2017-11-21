@@ -1,52 +1,46 @@
 ---
-title: "Actualités"
+title: "News"
 date: 2017-03-02T12:00:00-05:00
 featured_image: '/images/jarres/Famille_Jarres03.jpg'
-description : 'Expositions, actualités, animations, événements... une page à compléter'
-weight : 5
+description : 'Expositions, actualités, animations, événements...'
+weight : 3
 ---
 
-En attendant d'organiser cette rubrique sous forme de blog (sans doute quelques articles classés par ordre chronologique inversé avec des catégories...), voici une rapide liste et quelques occasions à venir pour nous retrouver dans "la vraie vie".
+Quelques occasions à venir pour nous retrouver dans "la vraie vie".
 
-####  > Auvers-sur-Oise
-##### du samedi 6 au lundi 8 mai 2017 de 10h00 à 18h00 
+![Jarres noires chez Empreintes](/images/jarres/jarres-empreintes.jpg)
 
-à la Cave du Pressoir Auversois : 
+## Expositions Ventes Hiver 2017 
+### 23-26 novembre	« Noel avant l’Heure » - Salon de l’Artisanat d’Art – Cergy
 
-- Lieu : Accès dans le Parc Van Gogh  (à côté de l’Office de tourisme d'Auvers-sur-Oise)
-- Dates : du samedi 6 au lundi 8 mai 2017
-- Horaires : 10h00 - 18h00
+Chambre de Métiers et de l’Artisanat du Val D’Oise  
+Avenue du Parc - Cergy Pontoise 2
 
-##### 4 animations pour les grands et les plus petits.
-Découvrir et manier la terre : l’occasion de façonner un petit objet en argile pour vous ou pourquoi pas pour la fête des mères…
+![Noël avant l'heure](/images/news/Salon-cma-nalh-2017.jpg)
 
-- Samedi : 15h00
-- Dimanche : 11h30 & 15h00
-- Lundi : 15h00
+La 9ème édition du salon d'artisanat d'art "Noël Avant L'Heure", organisé par la Chambre des Métiers et d'Artisanat du Val d'Oise, aura lieu du 23 au 26 novembre, dans ses locaux à Cergy. Vous pourrez découvrir plus de 50 exposants de talent, tous valdoisiens, qui présenteront leurs créations.
 
-#### > Paris  
-##### Exposition à partir du 10 mai 2017 et jusqu’à fin août
+Décoration d’intérieur, art de la table, mode et bijoux, il y en aura pour tous les goûts ! De quoi faire plaisir avec un cadeau original, à l’approche des fêtes de fin d’année ! Ne manquez pas aussi pendant ce salon, l’exposition « Cerner la couleur » qui rassemblera 20 pièces créées spécialement pour l’occasion.
 
-« [Concept store Empreintes](http://empreintes-paris.com/) » <br>Ateliers d’Art de France
-<br>Jarres et bols en Raku
-<br>Accès : 5, rue de Picardie – 75003 Paris – Métro : Saint-Sébastien Froissart
- 
- 
-#### > Mery sur Oise 
-##### Samedi 20 & dimanche 21 Mai 
-« Rencontres au Château – 22 artisans d’art »
- 
- 
-#### > Auvers sur Oise
-##### samedi 3 et dimanche 4 juin
-« L’art au jardin »
-Musée de l’absinthe
- 
+### 14–17 décembre	Le Salon ArtAvie - Paris  
+Salon de métiers d’art et d’artistes  Passage Choiseul - Paris
+12-18 Passage Choiseul 75002 Paris
 
-#### > Montour-les-Buttes (Sologne)
-##### 23 juin au 16 juillet
- 
-Exposition en forêt.<br>
-Association Woodstock<br>
-Montour-Les-Buttes. Route de Beaugency à Jouy-le-Potier.
+
+
+<section class="cf w-100 pa2-ns">
+  <article class="fl w-200 w-100-m  w-50-ns pa2-ns">
+    <div class="aspect-ratio aspect-ratio--1x1">
+      <img src="/images/arbre/arbre-grand-palais.jpg" class="db bg-center cover aspect-ratio--object" />
+    </div>
+    <a href="#0" class="ph2 ph0-ns pb3 link db">
+      <h3 class="f5 f4-ns mb0 black-90">Arbre féérique</h3>
+      <h3 class="f6 f5 fw4 mt2 black-60">Grand Palais</h3>
+    </a>
+  </article>
+</section>
+
+
+			
+
 

@@ -1,0 +1,1 @@
+N'importe quel texte pour décrire ce magnifique bol rouge !

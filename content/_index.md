@@ -1,22 +1,33 @@
 ---
-title: "Bonjour. Moi c'est Barbara."
-featured_image: '/images/portrait/Barbara03-2.jpg'
-description: "Petite, je voulais être une artiste..."
+title: "Barbara Billoud"
+featured_image: '/images/arbre/arbre-vase-ceramique-raku.jpg'
+description: "Atelier de Céramique - Ceramic Studio"
 ---
-### ... Maintenant, je suis artiste-céramiste à Auvers-sur-Oise.
 
-Bienvenue dans mon nouveau jardin numérique... Ce site est en reconstruction pour une meilleure lisibilité sur vos mobiles et tablettes, sans oublier plus de souplesse attendue pour me faciliter la vie pour des mises à jour. 
 
-En attendant la finalisation de ces quelques feuilles numériques et l'[organisation de la rubrique collections](../collections/), je vous propose aujourd'hui : 
+
+
+### ... Mardi 21 novembre : les constructions !
+
+Bonjour. Je m'appelle Barbara et suis céramiste à Auvers-sur-Oise (95). Sentez-vous à l'aise pour flâner sur ce nouveau *jardin numérique* fraîchement installé aujourd'hui. 
+
+{{< instagram Bbl6tLwjmh3 hidecaption >}}
+
+Après un weekend au salon de l'artisanat d'art à Saint Maur des Fossés, j'évolue entre les fours de mon atelier et mon ordinateur pour finaliser ces premières feuilles. 
+
+![Orme aux pétales de porcelaine](/images/arbre/orme-petales-de-porcelaine.jpg)
+
+Pour une première dégustation, je vous propose aujourd'hui : 
 
 - [une visite vidéo de mon atelier](/atelier/), 
-- quelques idées de "balades céramique" avec [plusieurs  expositions](/expositions/) prévues pour les mois de mai et juin 2017, 
-- et de découvrir mes [prochains stages d'initiation et perfectionnement au raku](/stages) qui démarrent au mois de juin2017.
+- [les expositions et salons](/expositions/) pour se voir et vous inspirer pour vos prochains cadeaux de Noël, 
+- les [prochains stages d'initiation et perfectionnement au raku](/stages) qui démarreront début 2018.
 
-Vous souhaitant une bonne visite sur ces premières pages, je vous remercie par avance de me [faire part de toutes vos critiques](/contact).
+Vous souhaitant une bonne visite,  de me [faire part de toutes vos critiques](/contact).
 
-À très bientôt,
+À très vite,
 
+<img alt="portrait barbara billoud" src="/images/logo/portrait-bb.jpg" style="width:80px; border-radius:100%;" />
 
 Barbara Billoud<br>
 Artiste-céramiste<br>

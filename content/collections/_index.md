@@ -2,10 +2,8 @@
 title: "Collections"
 description: "Du raku et des couleurs. Entre art et utilitaire, entre beauté et utilité. Rakus voyageurs, arbre féérique. Sans oublier quelques recherches sur la lumière."
 featured_image: '/images/atelier/Atelier03.jpg'
-weight : 3
+weight : 2
 ---
-
-
 
 <!-- cf params sur https://github.com/liwenyip/hugo-easy-gallery/ -->
 
@@ -14,7 +12,6 @@ weight : 3
 > Influencée par l'art nouveau autrichien, j'aime l'opposition du noir et du blanc, du mat et du brillant. Je veux tout mettre dans l'élégance de la simplicité, dans la force du trait et de la matière.
 
 {{< gallery dir="/images/raku" />}} {{< load-photoswipe >}}
-
 
 ### Des Rouges d'Italie 
 Pour moi, l'Italie, c'est la Renaissance, mais aussi le design, plein d'audace, qui sait opposer les choses. Et puis ces rouges pas possibles que l'on ne voit pas ailleurs.
@@ -33,10 +30,8 @@ Les bleus sont un hommage à ma région, muse des peintres impressionnistes. Je 
 
 
 ### Art brut aux accents d'Afrique 
+
 La terre brute griffée, les traces laissées par l'émail un temps déposé, le noir carbone, comme de la lave, rehaussé d'émaux cuits en réduction, aux cuivrés changeants. J'ai l'impression que la force de ces pièces vient de la liberté un peu sauvage avec laquelle je les modèle et les émaille, mais aussi le côté brut et inachevé permis par le raku 
-
-
-
 
 ## Recherche
 
@@ -53,7 +48,7 @@ L'[arbre aux pétales de porcelaines](http://www.larbrefeerique.com/fr/). Une oe
 
 ### Bijoux, luminaire,... à suivre
 
-Alliance du métal et de pierre, recherches exploratoires sur le light design, je suis actuellement quelques formations et tentent des expériences. Très intéressée pour tisser de nouveaux liens. Si ces deux thématiques vous intéressent, [rencontrons-nous](/contact) vite :)
+Alliance du métal et de pierre, recherches exploratoires sur le light design, je suis actuellement quelques formations et tente des expériences. Très intéressée pour tisser de nouveaux liens. Si ces deux thématiques vous intéressent, [rencontrons-nous](/contact) vite :)
 
 
 

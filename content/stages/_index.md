@@ -1,8 +1,8 @@
 ---
-title: "Stages"
+title: "Apprendre"
 description: "Cuisinez la Terre à Auvers-sur-Oise" 
 featured_image: 'images/portrait/Barbara05.jpg'
-weight : 3
+weight : 5
 ---
 
 ## Céramique & Raku. 
@@ -18,7 +18,7 @@ _Une recette simple_
 
 Depuis 2016, j'anime avec joie une série de formations dans mon atelier à Auvers-sur-Oise (accès à 45 minutes à partir de la Gare du Nord). 
 
-Les sessions printemps/été pour la céramique redémarrent fin mai 2017. Contactez-moi directement pour les cours particuliers de tournage .
+Les sessions printemps/été pour la céramique redémarrent début janvier 2018. [Contactez-moi](/contact) directement pour les cours particuliers de tournage.
 
 ### Déroulé 
 
@@ -40,12 +40,6 @@ Prévoyez au moins deux semaines entres les deux dates, car vos œuvres doivent 
  
 ### Stages découvertes Raku
 
-À la carte pour 2017, il ne tient qu'à vous de composer vos deux journées dans ce menu : 
+À la carte pour le premier trimestre 2018, il ne tient qu'à vous de composer vos deux journées dans votre agenda. 
 
-- samedi 27 ou dimanche 28 mai
-- samedi 17 ou dimanche 18 juin
-- samedi 1 ou dimanche 2 juin
-- samedi 8 ou dimanche 9 juin
-- samedi 22 ou dimanche 23 juin
- 
  
